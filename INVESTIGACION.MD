@@ -2,8 +2,8 @@ Taller de Investigación: Fundamentos de HTML
 Nombre del Estudiante: [Brayan Esneider Ciro Escudero]
 
 1. Anatomía de una Etiqueta HTML
-Etiqueta de Apertura y Cierre
-¿Qué es una etiqueta de apertura?
+   Etiqueta de Apertura y Cierre
+   ¿Qué es una etiqueta de apertura?
 
 Respuesta:
 Etiqueta de apertura → indica dónde empieza el elemento.
@@ -16,28 +16,30 @@ Etiqueta de cierre → indica dónde termina el elemento.
 Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.
 
-Respuesta: 
+Respuesta:
 Un atributo es información adicional que se le agrega a una etiqueta de apertura en HTML para:
-* Modificar su comportamiento.
-* Darle características extra.
-* Hacerla más específica.
+
+- Modificar su comportamiento.
+- Darle características extra.
+- Hacerla más específica.
 
 <a href="https://www.apple.com">Ir al sitio de Apple</a>
 
 a> y explicando qué hace el atributo href.
 
-Respuesta: 
-* El atributo href significa Hypertext REFerence (referencia de hipertexto).
+Respuesta:
 
-* Su función es indicar la dirección o recurso al que apunta un enlace <a>.
+- El atributo href significa Hypertext REFerence (referencia de hipertexto).
 
-* Gracias a href, un texto, imagen o botón se convierte en un hipervínculo clickeable.
+- Su función es indicar la dirección o recurso al que apunta un enlace <a>.
+
+- Gracias a href, un texto, imagen o botón se convierte en un hipervínculo clickeable.
 
 Escribe tu respuesta aquí, incluyendo un ejemplo de código como < href="https://google.com">Ir a Google</
 
 2. El Poder de la Semántica
-HTML Semántico
-¿Qué es el HTML Semántico y por qué es tan importante?
+   HTML Semántico
+   ¿Qué es el HTML Semántico y por qué es tan importante?
 
 Escribe tu respuesta aquí, mencionando aspectos como accesibilidad (lectores de pantalla) y SEO (cómo los buscadores entienden tu página).
 
@@ -46,19 +48,19 @@ El HTML semántico es la forma de escribir páginas web utilizando etiquetas que
 
 Esto es importante por varias razones:
 
-* Accesibilidad.
+- Accesibilidad.
 
 Los lectores de pantalla (usados por personas con discapacidad visual) pueden interpretar mejor la estructura de la página.
 
 Por ejemplo, un lector de pantalla reconoce que <nav> es un menú de navegación y permite saltar directamente a esa sección.
 
-* SEO (Posicionamiento en buscadores).
+- SEO (Posicionamiento en buscadores).
 
 Los buscadores como Google leen el HTML semántico para entender el contenido y jerarquía de la página.
 
 Esto ayuda a que el sitio aparezca en mejores posiciones porque el buscador sabe qué partes son títulos, menús, artículos, etc.
 
-* Claridad y mantenimiento del código.
+- Claridad y mantenimiento del código.
 
 El HTML semántico hace que el código sea más fácil de leer y mantener.
 
@@ -123,6 +125,6 @@ Fila de una tabla (table row).
 
 20: <td> y <th>
 
-* <td>: Celda de datos dentro de una tabla.
+- <td>: Celda de datos dentro de una tabla.
 
-* <th>: Celda de encabezado de tabla (normalmente en negrita).
+- <th>: Celda de encabezado de tabla (normalmente en negrita).
