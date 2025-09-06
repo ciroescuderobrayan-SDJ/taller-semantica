@@ -66,65 +66,65 @@ El HTML semántico hace que el código sea más fácil de leer y mantener.
 
 Otros desarrolladores entienden rápidamente la estructura sin necesidad de muchos comentarios.
 
-1: <header>
+1: header
 Sirve para definir el encabezado de una página o de una sección. Normalmente contiene el logo, el título principal o menús introductorios.
 
-2: <nav>
+2: nav
 Indica la barra o menú de navegación que contiene enlaces a otras secciones de la misma página o a otras páginas.
 
-3: <main>
-Se utiliza para encerrar el contenido principal de la página, es decir, lo más importante que diferencia esa página del resto. Solo debe haber un <main> por documento.
+3: main
+Se utiliza para encerrar el contenido principal de la página, es decir, lo más importante que diferencia esa página del resto. Solo debe haber un main por documento.
 
-4: <section>
+4: section
 Define una sección temática dentro de la página. Sirve para agrupar contenido relacionado, como “Noticias”, “Cursos”, “Testimonios”.
 
-5: <article>
+5: article
 Representa un contenido independiente y autónomo, que podría existir por sí mismo: un post de blog, una noticia, un comentario de foro, etc.
 
-6: <aside>
+6: aside
 Se usa para contenido complementario o secundario al principal, como barras laterales, anuncios, enlaces recomendados o widgets.
 
-7: <footer>
+7: footer
 Indica el pie de página de un documento o sección. Suele contener información de contacto, derechos de autor, enlaces legales o redes sociales.
 
-8: <h1> a <h6>
+8: h1 a h6
 Encabezados jerárquicos de distintos niveles, de más importante (h1) a menos importante (h6).
 
-9: <p>
+9: p
 Define un párrafo de texto.
 
-10: <span>
+10: span
 Etiqueta en línea usada para marcar texto sin darle un significado semántico específico (sirve para aplicar estilos puntuales).
 
-11: <a>
-Crea un enlace a otra página, sección o recurso (href).
+11: a
+Crea un enlace a otra página, sección o recurso (usa el atributo href).
 
-12: <ul>
-Lista desordenada (con viñetas).
+12: ul
+Crea una lista desordenada (con viñetas).
 
-13: <ol>
-Lista ordenada (con números).
+13: ol
+Crea una lista ordenada (con números).
 
-14: <li>
-Elemento de lista dentro de <ul> o <ol>.
+14: li
+Define un elemento dentro de una lista (ul o ol).
 
-15: <img>
-Muestra una imagen en la página. Requiere src (ruta) y alt (texto alternativo).
+15: img
+Muestra una imagen en la página. Requiere atributos src (ruta) y alt (texto alternativo).
 
-16: <figure>
-Contenedor para contenido visual (imágenes, gráficos, diagramas).
+16: figure
+Contenedor para contenido visual (imágenes, gráficos, diagramas, etc.).
 
-17: <figcaption>
-Texto que sirve como descripción o pie de figura dentro de <figure>.
+17: figcaption
+Texto que sirve como descripción o pie de figura dentro de figure.
 
-18: <table>
+18: table
 Crea una tabla para organizar datos en filas y columnas.
 
-19: <tr>
-Fila de una tabla (table row).
+19: tr
+Define una fila dentro de una tabla.
 
-20: <td> y <th>
+20: td y th
 
-- <td>: Celda de datos dentro de una tabla.
+td: Celda de datos en una tabla.
 
-- <th>: Celda de encabezado de tabla (normalmente en negrita).
+th: Celda de encabezado de tabla (generalmente en negrita o resaltada).
