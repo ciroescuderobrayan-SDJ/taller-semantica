@@ -85,3 +85,44 @@ Se usa para contenido complementario o secundario al principal, como barras late
 7: <footer>
 Indica el pie de página de un documento o sección. Suele contener información de contacto, derechos de autor, enlaces legales o redes sociales.
 
+8: <h1> a <h6>
+Encabezados jerárquicos de distintos niveles, de más importante (h1) a menos importante (h6).
+
+9: <p>
+Define un párrafo de texto.
+
+10: <span>
+Etiqueta en línea usada para marcar texto sin darle un significado semántico específico (sirve para aplicar estilos puntuales).
+
+11: <a>
+Crea un enlace a otra página, sección o recurso (href).
+
+12: <ul>
+Lista desordenada (con viñetas).
+
+13: <ol>
+Lista ordenada (con números).
+
+14: <li>
+Elemento de lista dentro de <ul> o <ol>.
+
+15: <img>
+Muestra una imagen en la página. Requiere src (ruta) y alt (texto alternativo).
+
+16: <figure>
+Contenedor para contenido visual (imágenes, gráficos, diagramas).
+
+17: <figcaption>
+Texto que sirve como descripción o pie de figura dentro de <figure>.
+
+18: <table>
+Crea una tabla para organizar datos en filas y columnas.
+
+19: <tr>
+Fila de una tabla (table row).
+
+20: <td> y <th>
+
+* <td>: Celda de datos dentro de una tabla.
+
+* <th>: Celda de encabezado de tabla (normalmente en negrita).
